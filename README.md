@@ -1,5 +1,5 @@
-About Me:
-👋 Hi, I'm Ashmin — an aspiring Python Full Stack Developer with a passion for building practical, impactful solutions.<br>🎓 BCA Graduate | 💻 Web Dev Enthusiast | 🚀 Always Learning<br>🔧 Skilled in Python, JavaScript, HTML, CSS, Bootstrap, React.js, and SQL<br>📍 Currently exploring backend frameworks like Django and Node.js<br>📦 I love working on real-world projects — from smart IoT locks to student management systems<br>🌱 Growing every day through code, curiosity, and creativity<br>📬 Let's connect and collaborate: https://ashminme.netlify.app/
+
+Hi, I'm Ashmin - an aspiring Python Full Stack Developer with a passion for building practical, impactful solutions.<br>🎓 BCA Graduate | 💻 Web Dev Enthusiast | 🚀 Always Learning<br>🔧 Skilled in Python, JavaScript, HTML, CSS, Bootstrap, React.js, and SQL<br>📍 Currently exploring backend frameworks like Django and Node.js<br>📦 I love working on real-world projects — from smart IoT locks to student management systems<br>🌱 Growing every day through code, curiosity, and creativity<br>📬 Let's connect and collaborate: https://ashminme.netlify.app/
 
 
 ## 🌐 Socials:
