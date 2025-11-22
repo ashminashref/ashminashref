@@ -1,5 +1,5 @@
 
-Aspiring Python Full Stack Developer with a passion for building practical, impactful solutions.<br>🎓 BCA Graduate | 💻 Web Dev Enthusiast | 🚀 Always Learning<br>🔧 Skilled in Python, JavaScript, HTML, CSS, Bootstrap, React.js, AWS, and SQL<br>📍 Currently exploring backend frameworks like Django<br>🌱 Growing every day through code, curiosity, and creativity<br>📬 Let's connect and collaborate: https://ashminashraff.netlify.app/
+Aspiring Python Full Stack Developer with a passion for building practical, impactful solutions.<br>🎓 BCA Graduate | 💻 Web Dev Enthusiast | 🚀 Always Learning<br>🔧 Skilled in Python, JavaScript, HTML, CSS, Bootstrap, React.js, and SQL<br>📍 Currently exploring backend frameworks like Django<br>🌱 Growing every day through code, curiosity, and creativity<br>📬 Let's connect and collaborate: https://ashminashraff.netlify.app/
 
 
 ## 🌐 Socials:
